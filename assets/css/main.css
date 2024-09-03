@@ -907,18 +907,24 @@ section,
   background-color: rgb(36, 211, 124);
 }
 
+
 @media (max-width: 768px) {
+  .carousel-caption {
+    padding: 10px;
+  }
+
   .carousel-caption h1 {
-    font-size: 28px; /* Adjust as needed */
+    font-size: 24px;
   }
 
   .carousel-caption p {
-    font-size: 16px; /* Adjust as needed */
+    font-size: 14px;
   }
 
   .btn {
-    font-size: 18px; /* Adjust button size */
-    /*padding: 10px 20px; /* Adjust padding for smaller screens */
+    font-size: 14px;
+    padding: 8px 16px;
+    margin-top: 10px;
   }
 }
 
