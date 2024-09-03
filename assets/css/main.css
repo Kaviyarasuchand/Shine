@@ -917,8 +917,8 @@ section,
   }
 
   .btn {
-    font-size: 14px; /* Adjust button size */
-    padding: 10px 20px; /* Adjust padding for smaller screens */
+    font-size: 18px; /* Adjust button size */
+    /*padding: 10px 20px; /* Adjust padding for smaller screens */
   }
 }
 
